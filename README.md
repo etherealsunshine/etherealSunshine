@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @etherealSunshine
 - 👀 I’m interested in AI!
-- 🌱 I’m currently learning Python
+- 🌱 I’m currently learning Python,TypeScript and Ocaml!
 - 🤖 I’m looking to collaborate on a chatbot
 - 🐪 Ocaml Enthusiast
 
