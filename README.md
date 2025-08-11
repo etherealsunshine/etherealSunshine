@@ -1,4 +1,4 @@
-- 👋 Hi, Utkarsh
+- 👋 Hi, I'm Utkarsh
 - 👀 I’m interested in AI!
 <!---
 etherealSunshine/etherealSunshine is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
